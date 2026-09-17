@@ -1,37 +1,37 @@
-English
+Filipino
 English
 
 Dancing Line
-Language
-LIKE US
-Loading
-Get Cubes
-for the best experience\nuse headphones
-Video not available
-Watch a video to unlock it temporarily
-Free Unlock
-Unlock
-New level unlocked:
-Get {0} Free
-Buy {0} Cubes
-Infinite Cubes
-Recharge in : {0}
-Cubes recharged. Let's dance again.
-tap to play
-OK
-Yes
-No
-On
-Off
-Cancel
-Paused
-Quality
-Very Low
-Low
-Medium
-High
-Ultra
-Max
+Wika
+I-LIKE KAMI
+Naglo-load
+Kumuha ng mga kubo
+Para sa pinakamahusay na eksperyensya\ngamitin ang headphones
+Hindi magagamit ang video
+Manood ng video para ma-unlock ito pansamantala lamang 
+Libreng Pag-unlock
+I-unlock
+Bagong level ang na-unlock:
+Kumuha ng {0} Libre
+Bumili ng {0} Kubo
+Walang-hanggang Kubo
+Magre-recharge sa : {0}
+Na-recharge na ang mga kubo. Magsayaw tayong muli.
+i-tap para maglaro
+SIGE
+Oo
+Hindi
+Naka-on
+Naka-off
+Kanselahin
+Nakahinto
+Kalidad
+Napakababa
+Mababa
+Katamtaman
+Mataas
+Pinakamataas
+Pinakamataas 
 Anti-Aliasing
 Sound
 VSync
