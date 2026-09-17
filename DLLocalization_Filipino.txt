@@ -1,0 +1,590 @@
+English
+English
+
+Dancing Line
+Language
+LIKE US
+Loading
+Get Cubes
+for the best experience\nuse headphones
+Video not available
+Watch a video to unlock it temporarily
+Free Unlock
+Unlock
+New level unlocked:
+Get {0} Free
+Buy {0} Cubes
+Infinite Cubes
+Recharge in : {0}
+Cubes recharged. Let's dance again.
+tap to play
+OK
+Yes
+No
+On
+Off
+Cancel
+Paused
+Quality
+Very Low
+Low
+Medium
+High
+Ultra
+Max
+Anti-Aliasing
+Sound
+VSync
+Synchronization
+Auto Adjustment
+Music Delay
+Touch Feedback
+Confirm Exit
+Do you want to quit the game?
+About
+Version
+Level Designers
+Localization Team
+Bilibili
+YouTube
+End-User License Agreement
+Privacy Policy
+Discord
+Display Mode
+Exclusive Fullscreen
+Fullscreen Windowed
+Windowed
+Portrait
+Landscape
+Resolution
+Continue from last checkpoint?
+Need #X%# more for #New Best#
+Need #X%# more for #Next Checkpoint#
+Need #X%# more to #Complete#
+Free
+Continue
+Search
+Delete Data
+Data reseted, please restart the game.
+Your game data will be deleted once this process is complete. Please proceed with caution.
+Please bear in mind that once you complete this process, your Dancing Line data (this includes any personal information and any other data generated through using Dancing Line Products) will be deleted permanently and will not be recoverable. Please choose and proceed carefully.
+Delete
+Deleting Data…\nYour cloud and local saves will be cleared
+Accessibility
+Can you beat X% in DancingLine? Come Play With Me!
+View Debug Logs
+Restore Default
+Legal & Privacy
+Before using the app, you must agree to our End-User License Agreement and Privacy Policy.
+Accept and continue
+Exit game
+I/O Buffer Size
+Audio Output Latency
+Touch Input Latency
+BETA BUILD ##UID# DO NOT LEAK
+Gyroscope Effects
+Game Center
+Claim
+Daily Free Stars
+Claimable after {0}
+Equipped
+Equip
+Free Revivals: {0}/{1}
+Do you want to spend {0} stars to unlock the guidance line temporarily?
+Unable to claim daily free stars, time verification failed.
+Advanced Settings
+This setting only applies to the current level, allowing individual adjustments for each level based on global music delay.\n\n<b>Actual Delay = Level Delay + Global Delay</b>
+Rewards
+Rewards: {0}
+Collected {0} diamonds in level: {1}
+Collected {0} crowns in level: {1}
+Completed level: {0}
+Follow the rhythm, and tap anywhere to change direction.
+This game is made to be played with the music on.
+Don't swipe. It doesn't work.
+Tap while flying isn't necessary.
+Don't tap when entering the pyramid at 45°
+You can change the skin of the character by clicking the floating cube.
+Collect all diamonds and crowns to perfectly complete the levels.
+Achievements
+[Hidden] 
+Completed: #x#
+#x# - Completed
+#x# - 10 Diamonds
+#x# - 3 Crowns
+Complete #x#
+Collect all diamonds in #x#
+Collect all crowns in #x#
+The Secret of Dragonia
+Find at least one hidden path in  The Tales of Dragonia 
+Is that Paimon?
+How about we explore the area ahead of us later?
+M.A.Z.E.
+Find the hidden path in  The Maze 
+Pacifism
+Enter the peace storyline in  The War 
+2nd Anniversary Party
+Happy Xmas……\nand the 2nd Anniversary
+Gemless Master
+Encounter a dungeon escaper in  The Adventure 
+Starry Sky
+The starry expanse promises delightful surprises
+Key Bindings
+Waiting for input…\nPress the key that you want to use on the keyboard or controller
+Back
+Pause Game
+Character Control
+Guidance Line
+Settings
+Skin
+Left
+Right
+Confirm
+Restart
+Achievements
+Backspace
+Enter
+Enter
+ESC
+Space
+Left WIN
+Right WIN
+Left CMD
+Right CMD
+▲
+▼
+◀
+▶
+Left Shift
+Right Shift
+Left Option
+Right Option
+Left CTRL
+Right CTRL
+Left Option
+Right Option
+Menu
+Completed
+Checkpoint
+Merry Christmas
+Collect
+Tap
+This can not happen without you.\nWe're one.
+Why…
+Everything goes worse…
+World End
+Follow your own star! -Dante
+Once you fly, you will walk with eyes skyward \n\t\t\t\t\t\t\t\t Leonardo Da Vinci
+You're not alone.
+Regret nothing in matters\nof love and food.
+Normal
+Headphones
+Paper
+Zeus
+Chaos
+Mountains
+Chinese Brush
+Magic Witch
+Slither
+Dominoes
+Module
+Light
+Snowball
+Arrow
+Whale
+Snow Fog
+Stalagmite
+Clown
+Flying Nimbus
+Snake
+Jelly
+Magic Cloak
+Bomb Skeleton
+Balloon
+Fireball
+Pyramid
+Ball
+Cyan Ball
+Black Ball
+Plain Ball
+Basketball
+Star Power
+Robot
+Unnamed Level
+The Beginning
+The Time
+The Piano
+The Beach
+The Winter
+The Savanna
+The West
+The Valentines
+The Halloween
+The Alley
+The Desert
+The Storm
+The Storm
+The Mountains
+The Plains
+The Plains
+The Maze
+The Earth
+The Firework Paradise
+The Christmas Eve
+The Autumn
+The Crystal
+The Third Anniversary
+The Fifth Anniversary
+The Chaos
+The Cathedral
+The Cathedral
+The Sailor's Tale
+The Legend of Assassin
+The Chinese Garden
+The Racing
+Coming Soon
+The End - Theo5970
+The Romance
+The Spring
+The Spring Festival
+The Samurai
+The Tales of Dragonia
+The Ugly Duckling
+The Video Game
+The Exodus
+The Ocean
+The Taurus
+Dream of Sky
+The Basketball
+The Christmas Party
+The Indian Journey
+The War
+The Mystery
+The Football
+The Hip Hop Evolution
+The Easter
+The Spring Lullaby
+The Halloween Puzzle
+The Amusement Park
+Faded - Alan Walker
+Faded (Tutorial Version)
+Despacito
+Alone - Alan Walker
+Zen Garden
+The Samurai HD
+The Ranch
+Faded - Alan Walker
+All About Us
+The Evolution (P13)
+Dessert Wonderland
+The Space
+The Discovery - Chronos
+The Adventure
+The Apocalypse
+The Journey
+The Mathematics
+The Drizzle
+The Wandering
+The Hollowness
+The Memory
+Storm of Anger
+None
+Christmas Hat
+Bamboo Dragonfly
+Wizard Hat
+Mexican Hat
+Bowler Hat
+Sweet Dog Hat
+Sprite
+Rat
+New level is downloading
+Please stay connected to the internet
+Input HUD
+Failed to download level
+Clear Cache
+Caches such as level & music data downloaded will be cleared, continue clearing?
+The current version #Current# is out of date, you are required to update to at least #Latest# to play.
+Failed to load ad configurations
+Retry
+Checking for Updates…
+Updating Configurations
+Downloading Updates
+The journey isn't over…
+More are coming…
+Thanks for all, Dancing Line players!
+Update Required
+Global Sync Adjustment
+Level Sync Adjustment
+Auto Correction
+Share
+Copy Text
+Save Image
+Copy Image
+Choose what to clear
+Clear Game Progress
+New Best
+Perfect
+Not for sale
+Notes Challenge
+Notes Store
+Sold out
+Stars × {0}
+Cubes × {0}
+Challenge
+Tuesday — Sunday
+Rules
+Complete this level perfectly to get notes!
+Notes Challenge ended, challenge it later!
+• In this event, your mission is to collect every diamond and crown, conquer the level with just one cube, and—remember—no revives allowed! Are you up for the challenge?\n\n• Guidance Lines are turned off during gameplay, so it’s all up to your skills!\n\n• Once you’ve perfected the level, don’t forget to head back to the event page to claim your rewards!
+Failed to connect to the internet, please make sure that your network is stable and try again.
+Item Redeemed
+Successfully redeemed #item#
+Do you want to redeem #item#?
+Store refreshes every Monday
+Notes Store refreshed, check out what's new!
+This week's Notes Challenge is now available, come and beat the levels!
+Bowling Ball
+Tennis Ball
+Challenge Completed : #Level#
+Continue downloading via cellular data?
+Cellular Data Warning
+Error
+Unknown error occurred!
+Hide Cursor
+When Stationary
+While Playing
+Never
+Official
+Remix
+Event
+Season
+Original
+Legacy
+Fanmade
+Max Studio
+WINDER Studio
+Please login to Game Center in System Settings
+Status Bar
+DLRS GAS
+Profile
+Account Settings
+Username: {0}\nUser ID: {1}
+Frame Rate
+Display Frame Rate
+Server
+Multi-touch Support
+Come & Get It - Selena Gomez
+Song
+Copied to clipboard
+App Icon
+Export Game Progress
+Import Game Progress
+The Tree of Void
+Enter secret path in The Hollowness
+Auto-clicking may not be accurate until the level is downloaded.
+Upgrading Game Database
+Default
+Green
+The Duet
+QQ Group
+QQ Channel
+Render Resolution
+Auto
+Hats
+Unequip
+Sci-Fi
+https://dl-community.github.io/Docs/#/en/legal/eula
+https://dl-community.github.io/Docs/#/en/legal/privacy
+https://dl-community.github.io/Docs/#/dlce/level_information
+https://dl-community.github.io/Docs/#/en/dlce/localization
+completed
+Blue
+Yellow
+Classical
+Audio Session Interrupted
+Due to the current audio session being interrupted by the system, the game is temporarily unable to continue. Please try to avoid any apps or processes that may be interrupting the game audio and try again.
+Last Synced: {0}\nCloud Data Version: {1}
+Sync Now
+Synchronization is too frequent
+Synchronization successful
+Synchronization failed
+Cloud Save
+Last Synced
+Cloud Data Version
+Syncing…
+Follow System Language
+Copy
+Open External Directory
+Directly opening a directory is not currently supported. Please click the button to copy the following directory and open it manually:\n\n#DIRECTORY#
+DL RS Games Account System
+Email…
+Password…
+Remember User
+Account Login
+Login
+Register
+Forget Password
+Logging in…
+Login timed out
+Error
+Incorrect email or password
+This account isn't in the whitelist
+This account needs to be activated
+App outdated, please check for updates.
+Welcome, {0}!
+Login successful
+Please enter email
+Please enter password
+By logging in, you agree to the <b><color=#3d6ec0>DLRS GAS Terms of Service</color></b>
+Recent Account
+New Login
+Are you sure you want to remove account #name#?
+Opening in an external browser…
+This account has been banned
+Downloading user data…
+Failed to load player data
+Logout
+Are you sure you want to log out of  #USERNAME#?
+Open Source Libraries
+https://dlce.fengyan.ip-ddns.com/#/en/legal/open-source
+Statistics
+Completed
+Diamonds
+Crowns
+Deaths
+Level Attempts
+Revives
+Times Completed
+Diamonds Picked Up
+Crowns Picked Up
+Stars Earned
+Stars Spent
+Energy Cubes Earned
+Energy Cubes Used
+Notes Earned
+Notes Spent
+Owned Skins
+Owned Hats
+Multisample AA (#SHORT#)
+Fast Approximate AA (#SHORT#)
+Temporal AA (#SHORT#)
+Subpixel Morphological AA (#SHORT#)
+AMD FidelityFX™ Super Resolution (#SHORT#)
+Planet
+Star
+Go to #LEVELNAME#
+Using this option may cause stuttering or incorrect image display during gameplay.
+Warning
+Audio Device
+Built-In Speaker
+Speakers
+Couldn't find levels that match the keywords.
+Match All
+Match Any
+Playable
+Login via email and password
+Login via OAuth
+Authorization failed. Please try again.
+Disable
+Enable
+When disabled, your statistics will be cleared, and the game will no longer record data unless re-enable.
+App outdated, please check for updates.
+Redemption Code
+Enter redemption code…
+Redeem
+Redemption in cooldown, please try again later.
+The redemption code is invalid or has already been used.
+Successfully redeemed the following items:
+Level: #NAME#
+Skin: #NAME#
+Hat: #NAME#
+Notes × {0}
+Head in the Clouds
+Terms of Service
+Game environment integrity verification failed.
+Steam Overlay
+Monument Valley
+Cheetah Teddy
+The Wizard of Oz
+The Loong
+Audio Mixer
+Mono
+Stereo
+4.0 Surround
+5.0 Surround
+5.1 Surround
+7.1 Surround
+Select Level
+Level Collection
+Purchase on Steam
+Buy and install this DLC in Steam Store
+Legacy
+Level Submission
+{0}s
+{0}m {1}s
+{0}h {1}m {3}s
+{0}h {1}m
+Updates download failed. Retry?
+New updates available, {0} download required. Continue?
+The Forgotten Haven
+Failed to check for update, retry?
+Updates download failed. Retrying…
+Collab
+Skip Level
+Use {0} Notes to skip this challenge level?
+Not enough Notes. Need at least {0} to skip.
+{0}d {1}h
+Refreshes in: {0}
+Decoration
+VSync is currently enabled. Frame rate settings only take effect when VSync is disabled.\nDo you want to disable VSync?
+The server is currently under maintenance. Gameplay will be unavailable during this period.\n\nMaintenance Reason: {0}\nEnd Time: {1}
+Please stay tuned for further official announcements.
+Your account session has expired. You may have logged in from another device.\nPlease log in again.
+The server is currently under maintenance. You may log in to the game during maintenance, but the game service may be unstable.\n\nMaintenance Reason: {0}\nEnd Time: {1}
+Missions
+Refreshes in: {0}
+Log in to the game
+Complete any level {0} times
+Consume {0} cubes
+Consume {0} stars
+Die {0} times in any level
+Collect {0} diamonds in any level
+Collect {0} crowns in any level
+Revive {0} times in any level
+Get Stars
+Level Special Interaction
+This level features special interactions, which can be triggered via touch screen or hold the key.
+Unable to connect to Steam Network
+Steam Cloud
+Locked Level
+Function 1
+Function 2
+Function 3
+Function 4
+Function 5
+Back
+Cancel
+Purchase
+Next Level
+Main Menu
+Start Level
+Exit Game
+Prev Level
+Prev Page
+Next Page
+Audio
+Master Volume
+Failed to initialize Steam client, please relaunch the game.
+Cannot connect to Steam client. Please make sure that the Steam client is running, and relaunch the game.
+Steam client appears to be out of date, please make sure that your steam client is up to date.
+Steam Error
+Steam cloud save is corrupted and cannot be read.\nThis may be because you exited the game while it was saving, causing incomplete data to be written to the save.\nThe game has attempted to read the save from the local cache but still failed.\nYou can choose to start the game with a new save. Do you want to continue?
+Steam Cloud Error
+Practice Mode will enable the Guidance Line.\n\nFollow the Guidance Line to learn the route and freely enjoy everything the level has to offer.\n\nTake your time to find the way forward —— your record can wait. Progress made in Practice Mode will not count toward scores, missions, or achievements.\n\nEnable Practice Mode?
+Practice Mode
+Practice Mode
+WARNING: PHOTOSENSITIVITY/EPILEPSY SEIZURES
+<b>READ THIS NOTICE BEFORE PLAYING</b>\n\nA very small percentage of people may experience epileptic seizures or blackouts when exposed to certain kinds of flashing lights or light patterns. These persons, or even people who have no history of seizures or epilepsy, may experience epileptic symptoms or seizures while playing video games.\n\nIf you or any of your relatives has an epileptic condition or has had seizures of any kind, consult your physician before playing any video game.\n\nIMMEDIATELY DISCONTINUE use and consult a physician if you or your child experience any of the following symptoms: dizziness, altered vision, eye or muscle twitching, involuntary movements, loss of awareness, disorientation, or convulsions. Parents should watch for or ask their children about the above symptoms.\n\nYou may reduce risk of photosensitive epileptic seizures by taking the following precautions: sit farther from the screen, use a smaller screen, play in a well-lit room, do not play when you are drowsy or fatigued.
+Steam Leaderboard
+Guidance Line
+Level English
