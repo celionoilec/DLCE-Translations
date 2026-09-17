@@ -33,31 +33,31 @@ Mataas
 Pinakamataas
 Pinakamataas 
 Anti-Aliasing
-Sound
-VSync
-Synchronization
-Auto Adjustment
-Music Delay
-Touch Feedback
-Confirm Exit
-Do you want to quit the game?
-About
-Version
-Level Designers
-Localization Team
+Tunog
+VSink
+Sinkronisasyon
+Awtomatikong Pagsasaayos
+Pagkaantala ng Musika
+Pidbak sa Pagpindot
+Kumpirmahin ang Paglabas
+Gusto mo na bang umalis sa laro?
+Tungkol
+Bersiyon
+Mga taga-disenyo ng Antas
+Pangkat ng Lokalisasyon 
 Bilibili
 YouTube
-End-User License Agreement
-Privacy Policy
+Kasunduan sa Lisensya ng End-user
+Patakaran sa Privacy
 Discord
-Display Mode
-Exclusive Fullscreen
-Fullscreen Windowed
-Windowed
-Portrait
-Landscape
-Resolution
-Continue from last checkpoint?
+Mode ng Display
+Eksklusibong Fullscreen
+
+
+Patayo
+Pahiga
+Resolusyon
+Magpatuloy mula sa huling tsekpoint?
 Need #X%# more for #New Best#
 Need #X%# more for #Next Checkpoint#
 Need #X%# more to #Complete#
