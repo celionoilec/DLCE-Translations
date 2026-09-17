@@ -58,7 +58,7 @@ Patayo
 Pahiga
 Resolusyon
 Magpatuloy mula sa huling tsekpoint?
-Need #X%# more for #New Best#
+Kailangan pa ng #X%# para sa #New Best#
 Need #X%# more for #Next Checkpoint#
 Need #X%# more to #Complete#
 Free
