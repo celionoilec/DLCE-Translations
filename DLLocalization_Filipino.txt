@@ -58,17 +58,17 @@ Patayo
 Pahiga
 Resolusyon
 Magpatuloy mula sa huling tsekpoint?
-Kailangan pa ng #X%# para sa #New Best#
-Need #X%# more for #Next Checkpoint#
-Need #X%# more to #Complete#
-Free
-Continue
-Search
-Delete Data
-Data reseted, please restart the game.
-Your game data will be deleted once this process is complete. Please proceed with caution.
-Please bear in mind that once you complete this process, your Dancing Line data (this includes any personal information and any other data generated through using Dancing Line Products) will be deleted permanently and will not be recoverable. Please choose and proceed carefully.
-Delete
+Kailangan pa ng #X%# para sa #Bagong Best#
+Kailangan pa ng #X%# para sa #Susunod na Tsekpoint#
+Kailangan pa ng #X%# para #Makompleto#
+Libre
+Magpatuloy
+Paghahanap
+Burahin ang Data
+Na-reset na ang data, pakirestart ang laro.
+Mabubura ang data ng iyong laro pagkatapos makumpleto ang prosesong ito. Magpatuloy nang may pag-iingat.
+Pakitandaan na kapag nakumpleto na ang prosesong ito, permanenteng mabubura ang iyong data sa Dancing Line (kabilang dito ang anumang personal na impormasyon at iba pang data na nabuo mula sa paggamit ng mga Produkto ng Dancing Line) at hindi na ito maaaring mabawi. Mangyaring piliin ang iyong gagawin at magpatuloy nang mabuti.
+Burahin
 Deleting Data…\nYour cloud and local saves will be cleared
 Accessibility
 Can you beat X% in DancingLine? Come Play With Me!
