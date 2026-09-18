@@ -380,27 +380,27 @@ App Ikon
 I-export ang Progreso ng Laro
 I-import ang Progreso ng Laro
 Ang Puno ng Kawalan
-Enter secret path in The Hollowness
-Auto-clicking may not be accurate until the level is downloaded.
-Upgrading Game Database
+Pumasok sa nakatagong daan sa Ang Kawalang-laman
+Maaaring hindi maging tumpak ang Auto-clicking hangga't hindi pa nada-download ang level.
+Ina-upgrade ang Game Database
 Default
-Green
-The Duet
+Berde
+Ang Dueto
 QQ Group
 QQ Channel
-Render Resolution
-Auto
-Hats
-Unequip
+Resolusyon sa Pag-render 
+Awto
+Sumbrero
+Hindi Gamitin 
 Sci-Fi
 https://dl-community.github.io/Docs/#/en/legal/eula
 https://dl-community.github.io/Docs/#/en/legal/privacy
 https://dl-community.github.io/Docs/#/dlce/level_information
 https://dl-community.github.io/Docs/#/en/dlce/localization
 completed
-Blue
-Yellow
-Classical
+Asul
+Dilaw
+Klasikal
 Audio Session Interrupted
 Due to the current audio session being interrupted by the system, the game is temporarily unable to continue. Please try to avoid any apps or processes that may be interrupting the game audio and try again.
 Last Synced: {0}\nCloud Data Version: {1}
