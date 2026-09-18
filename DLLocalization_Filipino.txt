@@ -6,7 +6,7 @@ Wika
 I-LIKE KAMI
 Naglo-load
 Kumuha ng mga kubo
-Para sa pinakamahusay na eksperyensya\ngamitin ang headphones
+Para sa pinakamahusay na eksperyensya\ngamitin ang headphones :D
 Hindi magagamit ang video
 Manood ng video para ma-unlock ito pansamantala lamang 
 Libreng Pag-unlock
@@ -58,7 +58,7 @@ Patayo
 Pahiga
 Resolusyon
 Magpatuloy mula sa huling tsekpoint?
-Kailangan pa ng #X%# para sa #Bagong Best#
+Kailangan pa ng #X%# para sa #New Best#
 Kailangan pa ng #X%# para sa #Susunod na Tsekpoint#
 Kailangan pa ng #X%# para #Makompleto#
 Libre
@@ -96,12 +96,12 @@ Mga Advanced na Settings
 Nalalapat lang ang setting na ito sa kasalukuyang level, kaya maaari kang gumawa ng magkakahiwalay na adjustment para sa bawat level batay sa global music delay.\n\n<b>Aktwal na Delay = Delay ng Level + Global Delay</b>
 Mga Rewards
 Rewards: {0}
-Nakolektang {0} diyamante sa antas: {1}
-Nakolektang {0} korona sa antas: {1}
-Natapos na antas: {0}
+Nakolektang {0} diyamante sa level: {1}
+Nakolektang {0} korona sa level: {1}
+Natapos na level: {0}
 Sundin ang ritmo, at i-tap kahit saan para magpalit ng direksyon.
 Ang larong ito ay ginawa para laruin nang naka-on ang musika.
-Huwag mag-swipe. Hindi ito gumagana.
+Huwag mag-swipe. Hindi yan gagana.
 Hindi kailangang mag-tap habang lumilipad.
 Huwag mag-tap kapag pumapasok sa pyramid nang 45°.
 Maaari mong palitan ang skin ng character sa pag-click sa lumulutang na cube.
@@ -130,7 +130,7 @@ Makilala ang isang nakatakas mula sa dungeon sa Ang Pakikipagsapalaran
 Mabituing Kalangitan
 Ang mabituing kalawakan ay nangangako ng masasayang sorpresa.
 Mga Key Binding
-Naghihintay ng input…\nPindutin ang key na gusto mong gamitin sa keyboard o controller
+Naghihintay ng input…\nPindutin ang key na gusto mong gamitin sa keyboard o kontroler
 Bumalik
 Ihinto ang Laro 
 Kontrol ng Karakter
@@ -145,16 +145,16 @@ Mga Achievements
 Backspace
 Pumasok
 Pumasok
-ESC
-Space
+
+
 Kaliwa WIN
 Kanan WIN
 Kaliwa CMD
 Kanan CMD
-▲
-▼
-◀
-▶
+
+
+
+
 Kaliwang Paglipat
 Kanang Paglipat
 Kaliwang Opsyon
@@ -163,7 +163,7 @@ Kaliwang CTRL
 Kanang CTRL
 Kaliwang Opsyon
 Kanang Opsyon
-Menu
+
 Nakumpleto
 Tsekpoint
 Maligayang Pasko 
@@ -180,7 +180,7 @@ Huwag pagsisihan ang anuman\npagdating sa pag-ibig at pagkain.
 Normal
 Headphones
 Papel
-Zeus
+
 Kahulugan
 Kabundukan
 
@@ -285,75 +285,75 @@ Ang Paglalakbay
 Ang Matematika
 Ang Ambon
 Ang Paggala
-The Hollowness
-The Memory
-Storm of Anger
-None
-Christmas Hat
-Bamboo Dragonfly
-Wizard Hat
-Mexican Hat
-Bowler Hat
-Sweet Dog Hat
-Sprite
-Rat
-New level is downloading
-Please stay connected to the internet
-Input HUD
-Failed to download level
-Clear Cache
-Caches such as level & music data downloaded will be cleared, continue clearing?
-The current version #Current# is out of date, you are required to update to at least #Latest# to play.
-Failed to load ad configurations
-Retry
-Checking for Updates…
-Updating Configurations
-Downloading Updates
-The journey isn't over…
-More are coming…
-Thanks for all, Dancing Line players!
-Update Required
-Global Sync Adjustment
-Level Sync Adjustment
-Auto Correction
-Share
-Copy Text
-Save Image
-Copy Image
-Choose what to clear
-Clear Game Progress
-New Best
-Perfect
-Not for sale
-Notes Challenge
-Notes Store
-Sold out
-Stars × {0}
-Cubes × {0}
-Challenge
-Tuesday — Sunday
-Rules
-Complete this level perfectly to get notes!
-Notes Challenge ended, challenge it later!
-• In this event, your mission is to collect every diamond and crown, conquer the level with just one cube, and—remember—no revives allowed! Are you up for the challenge?\n\n• Guidance Lines are turned off during gameplay, so it’s all up to your skills!\n\n• Once you’ve perfected the level, don’t forget to head back to the event page to claim your rewards!
-Failed to connect to the internet, please make sure that your network is stable and try again.
-Item Redeemed
-Successfully redeemed #item#
-Do you want to redeem #item#?
-Store refreshes every Monday
-Notes Store refreshed, check out what's new!
-This week's Notes Challenge is now available, come and beat the levels!
-Bowling Ball
-Tennis Ball
-Challenge Completed : #Level#
-Continue downloading via cellular data?
-Cellular Data Warning
-Error
-Unknown error occurred!
-Hide Cursor
-When Stationary
-While Playing
-Never
+Ang Kawalang-laman
+Ang Memorya
+Bagyo ng Poot
+Wala
+Sumbrero ng Pasko
+Tutubi na Kawayan
+Sumbrero ng Salamangkero
+Sumbrero ng Mehikano
+Sumbrero ng Bowler
+Sumbrero ng Sweet Dog
+
+Daga
+Nagda-download ang bagong level
+Mangyaring panatilihin nakakonekta sa internet
+
+Hindi na-download ang level
+I-clear ang Cache
+Mabubura ang mga cache gaya ng na-download na data ng level at musika, ipagpatuloy ang pag-clear?
+Luma na ang kasalukuyang bersyon na #Current#. Kailangan mong mag-update sa hindi bababa sa #Latest# para makapaglaro.
+Hindi ma-load ang mga konpigurasyon ng ad
+Subukan Muli 
+Sinusuri kung may mga update…
+Ina-update ang mga konpigurasyon
+Nagda-download ng mga update
+Hindi pa tapos ang paglalakbay…
+Marami pang darating…
+Salamat sa inyong lahat, mga manlalaro ng Dancing Line!
+Kinakailangan ang Pag-update
+Pagsasaayos ng Global sync
+Pagsasaayos ng Level Sync
+Awtomatikong Pagwawasto
+Ibahagi
+Kopyahin ang Teksto
+I-save ang Larawan
+Kopyahin ang larawan 
+Piliin kung ano ang Aalisin
+I-clear ang Progreso ng laro
+
+Perpekto
+Hindi Ipinagbibili
+Hamon sa mga Notes
+
+Naubos Na
+Mga Bituin × {0}
+Mga Kubo × {0}
+Hamon
+Martes — Linggo
+Mga Patakaran 
+Kumpletuhin nang perpekto ang level na ito para makakuha ang notes!
+Tapos na ang Hamon sa mga Notes, subukan ulit ang hamon mamaya!
+• Sa event na ito, ang misyon mo ay kolektahin ang bawat diyamante at korona, tapusin ang level gamit ang isang cube lamang, at—tandaan—walang revive! Handa ka na ba sa hamon?\n\n• Naka-off ang Linyang Gabay habang naglalaro, kaya nakasalalay ang lahat sa iyong husay!\n\n• Kapag nakumpleto mo na nang perpekto ang level, huwag kalimutang bumalik sa event page para kunin ang iyong mga reward!
+Hindi makakonekta sa internet. Tiyaking matibay ang iyong network at subukan muli.
+Nakuha na ang item
+Matagumpay na nakuha ang #item#
+Gusto mo bang kunin ang #item#?
+Nagre-refresh ang store tuwing Lunes.
+Na-refresh na ang Notes Store, tingnan kung ano ang bago!
+Available na ang Notes Challenge ngayong linggo. Halika at talunin ang mga level!
+
+
+Nakumpleto ang Hamon : #Level#
+Ipagpatuloy ang pag-download gamit ang cellular data?
+Babala sa Cellular Data
+Eror
+May naganap na hindi kilalang eror!
+Itago ang Kursor
+Kapag Nakatigil 
+Habang Naglalaro
+Hindi Kailanman 
 Official
 Remix
 Event
@@ -587,4 +587,4 @@ WARNING: PHOTOSENSITIVITY/EPILEPSY SEIZURES
 <b>READ THIS NOTICE BEFORE PLAYING</b>\n\nA very small percentage of people may experience epileptic seizures or blackouts when exposed to certain kinds of flashing lights or light patterns. These persons, or even people who have no history of seizures or epilepsy, may experience epileptic symptoms or seizures while playing video games.\n\nIf you or any of your relatives has an epileptic condition or has had seizures of any kind, consult your physician before playing any video game.\n\nIMMEDIATELY DISCONTINUE use and consult a physician if you or your child experience any of the following symptoms: dizziness, altered vision, eye or muscle twitching, involuntary movements, loss of awareness, disorientation, or convulsions. Parents should watch for or ask their children about the above symptoms.\n\nYou may reduce risk of photosensitive epileptic seizures by taking the following precautions: sit farther from the screen, use a smaller screen, play in a well-lit room, do not play when you are drowsy or fatigued.
 Steam Leaderboard
 Guidance Line
-Level English
+Level Unlock
