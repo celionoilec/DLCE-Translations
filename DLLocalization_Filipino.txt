@@ -445,13 +445,13 @@ Dina-download ang user data…
 Hindi ma-load ang player data
 Mag-log Out
 Sigurado ka bang gusto mong mag-log out sa #USERNAME#?
-Open Source Libraries
+Buksan ang Source Libraries
 https://dlce.fengyan.ip-ddns.com/#/en/legal/open-source
-Statistics
-Completed
-Diamonds
-Crowns
-Deaths
+Estadistika
+Nakumpleto
+Diyamante
+Korona 
+Kamatayan
 Level Attempts
 Revives
 Times Completed
