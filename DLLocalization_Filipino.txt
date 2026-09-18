@@ -34,7 +34,7 @@ Pinakamataas
  
 Anti-Aliasing
 Tunog
-VSink
+VSync
 Sinkronisasyon
 Awtomatikong Pagsasaayos
 Pagkaantala ng Musika
