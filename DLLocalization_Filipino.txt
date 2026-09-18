@@ -31,7 +31,7 @@ Mababa
 Katamtaman
 Mataas
 Pinakamataas
-Pinakamataas 
+ 
 Anti-Aliasing
 Tunog
 VSink
@@ -69,53 +69,53 @@ Na-reset na ang data, pakirestart ang laro.
 Mabubura ang data ng iyong laro pagkatapos makumpleto ang prosesong ito. Magpatuloy nang may pag-iingat.
 Pakitandaan na kapag nakumpleto na ang prosesong ito, permanenteng mabubura ang iyong data sa Dancing Line (kabilang dito ang anumang personal na impormasyon at iba pang data na nabuo mula sa paggamit ng mga Produkto ng Dancing Line) at hindi na ito maaaring mabawi. Mangyaring piliin ang iyong gagawin at magpatuloy nang mabuti.
 Burahin
-Deleting Data…\nYour cloud and local saves will be cleared
-Accessibility
-Can you beat X% in DancingLine? Come Play With Me!
-View Debug Logs
-Restore Default
-Legal & Privacy
-Before using the app, you must agree to our End-User License Agreement and Privacy Policy.
-Accept and continue
-Exit game
-I/O Buffer Size
-Audio Output Latency
-Touch Input Latency
-BETA BUILD ##UID# DO NOT LEAK
-Gyroscope Effects
+Binubura ang Data…\nMabubura ang iyong mga cloud at lokal na save.
+Aksesibilidad
+Kaya mo bang umabot ng X% sa Dancing Line? Halika, maglaro tayo!
+Tingnan ang Debug Logs
+Ibalik sa Default
+Legal at Privacy
+Bago gamitin ang app, kailangan mong sumang-ayon sa aming Kasunduan sa Lisensya para sa End-user at Patakaran sa Privacy.
+Tanggapin at Ipagpatuloy
+Lumabas sa laro
+
+Latency ng Audio Output
+Latency ng Touch Input
+BETA BUILD ##UID# HUWAG IPAMAHAGI
+Mga Epekto ng Gyroscope
 Game Center
-Claim
-Daily Free Stars
-Claimable after {0}
-Equipped
-Equip
-Free Revivals: {0}/{1}
-Do you want to spend {0} stars to unlock the guidance line temporarily?
-Unable to claim daily free stars, time verification failed.
-Advanced Settings
-This setting only applies to the current level, allowing individual adjustments for each level based on global music delay.\n\n<b>Actual Delay = Level Delay + Global Delay</b>
-Rewards
+Kunin
+Libreng Stars Araw-araw
+Maaaring kunin pagkatapos ng {0}
+Kasalukuyang ginagamit 
+Gamitin
+Libreng Revival: {0}/{1}
+Gusto mo bang gumastos ng {0} stars para pansamantalang i-unlock ang guidance line?
+Hindi makuha ang libreng stars araw-araw, nabigo ang pag-verify ng oras.
+Mga Advanced na Settings
+Nalalapat lang ang setting na ito sa kasalukuyang level, kaya maaari kang gumawa ng magkakahiwalay na adjustment para sa bawat level batay sa global music delay.\n\n<b>Aktwal na Delay = Delay ng Level + Global Delay</b>
+Mga Rewards
 Rewards: {0}
-Collected {0} diamonds in level: {1}
-Collected {0} crowns in level: {1}
-Completed level: {0}
-Follow the rhythm, and tap anywhere to change direction.
-This game is made to be played with the music on.
-Don't swipe. It doesn't work.
-Tap while flying isn't necessary.
-Don't tap when entering the pyramid at 45°
-You can change the skin of the character by clicking the floating cube.
-Collect all diamonds and crowns to perfectly complete the levels.
-Achievements
-[Hidden] 
-Completed: #x#
-#x# - Completed
-#x# - 10 Diamonds
-#x# - 3 Crowns
-Complete #x#
-Collect all diamonds in #x#
-Collect all crowns in #x#
-The Secret of Dragonia
+Nakolektang {0} diyamante sa antas: {1}
+Nakolektang {0} korona sa antas: {1}
+Natapos na antas: {0}
+Sundin ang ritmo, at i-tap kahit saan para magpalit ng direksyon.
+Ang larong ito ay ginawa para laruin nang naka-on ang musika.
+Huwag mag-swipe. Hindi ito gumagana.
+Hindi kailangang mag-tap habang lumilipad.
+Huwag mag-tap kapag pumapasok sa pyramid nang 45°.
+Maaari mong palitan ang skin ng character sa pag-click sa lumulutang na cube.
+Kolektahin ang lahat ng diyamante at korona para perpektong makumpleto ang mga level.
+Mga Achievements
+[Nakatago] 
+Natapos: #x#
+#x# - Natapos
+#x# - 10 Diyamante
+#x# - 3 Korona
+Kumpleto #x#
+Kolektahin ang lahat ng diyamante sa #x#
+Kolektahin ang lahat ng korona sa #x#
+Ang Lihim ng Dragonia
 Find at least one hidden path in  The Tales of Dragonia 
 Is that Paimon?
 How about we explore the area ahead of us later?
