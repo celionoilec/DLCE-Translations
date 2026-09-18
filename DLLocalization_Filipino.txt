@@ -354,16 +354,16 @@ Itago ang Kursor
 Kapag Nakatigil 
 Habang Naglalaro
 Hindi Kailanman 
-Official
-Remix
-Event
-Season
-Original
-Legacy
-Fanmade
+Opisyal
+
+
+
+Orihinal
+Legasiya
+
 Max Studio
 WINDER Studio
-Please login to Game Center in System Settings
+Mangyaring mag-login sa Game Center sa System Settings.
 Status Bar
 DLRS GAS
 Profile
