@@ -355,9 +355,9 @@ Kapag Nakatigil
 Habang Naglalaro
 Hindi Kailanman 
 Opisyal
-
-
-
+Remix
+Event
+Season
 Orihinal
 Legasiya
 
@@ -366,20 +366,20 @@ WINDER Studio
 Mangyaring mag-login sa Game Center sa System Settings.
 Status Bar
 DLRS GAS
-Profile
-Account Settings
+Propayl
+Mga Setting ng Account 
 Username: {0}\nUser ID: {1}
-Frame Rate
-Display Frame Rate
-Server
-Multi-touch Support
+Bilis ng Frame
+Ipakita ang Bilis ng Frame
+
+Suporta sa Multi-touch
 Come & Get It - Selena Gomez
-Song
-Copied to clipboard
-App Icon
-Export Game Progress
-Import Game Progress
-The Tree of Void
+Kanta
+Nakopya na sa clipboard
+App Ikon
+I-export ang Progreso ng Laro
+I-import ang Progreso ng Laro
+Ang Puno ng Kawalan
 Enter secret path in The Hollowness
 Auto-clicking may not be accurate until the level is downloaded.
 Upgrading Game Database
