@@ -401,21 +401,21 @@ completed
 Asul
 Dilaw
 Klasikal
-Audio Session Interrupted
-Due to the current audio session being interrupted by the system, the game is temporarily unable to continue. Please try to avoid any apps or processes that may be interrupting the game audio and try again.
-Last Synced: {0}\nCloud Data Version: {1}
-Sync Now
-Synchronization is too frequent
-Synchronization successful
-Synchronization failed
+Naantala ang Audio Session
+Dahil naantala ng system ang kasalukuyang audio session, pansamantalang hindi makapagpatuloy ang laro. Iwasang gumamit ng anumang app o proseso na maaaring nakakaistorbo sa audio ng laro, at subukan muli.
+Huling Na-sync: {0}\nBersyon ng Cloud Data: {1}
+I-sync Ngayon 
+Masyadong madalas ang pag-sync
+Matagumpay ang pag-sync
+Hindi matagumpay ang pag-sync
 Cloud Save
-Last Synced
-Cloud Data Version
-Syncing…
-Follow System Language
-Copy
-Open External Directory
-Directly opening a directory is not currently supported. Please click the button to copy the following directory and open it manually:\n\n#DIRECTORY#
+Huling Na-sync
+Bersyon ng Cloud Data
+Sini-sync…
+Sundin ang Wika ng System
+Kopya
+Buksan ang External Directory
+Hindi pa suportado sa ngayon ang direktang pagbukas ng directory. I-click ang button para kopyahin ang sumusunod na directory at buksan ito nang manu-mano:\n\n#DIRECTORY#
 DL RS Games Account System
 Email…
 Password…
@@ -423,28 +423,28 @@ Remember User
 Account Login
 Login
 Register
-Forget Password
-Logging in…
-Login timed out
-Error
-Incorrect email or password
-This account isn't in the whitelist
-This account needs to be activated
-App outdated, please check for updates.
-Welcome, {0}!
-Login successful
-Please enter email
-Please enter password
-By logging in, you agree to the <b><color=#3d6ec0>DLRS GAS Terms of Service</color></b>
-Recent Account
-New Login
-Are you sure you want to remove account #name#?
-Opening in an external browser…
-This account has been banned
-Downloading user data…
-Failed to load player data
-Logout
-Are you sure you want to log out of  #USERNAME#?
+Nakalimutan ang Password
+Nagla-log In…
+Nag-timeout ang Pag-login
+Eror
+Maling email o password
+Wala ang account na ito sa whitelist
+Kailangang i-activate ang account na ito
+Luma na ang app. Pakisuri kung may mga update.
+Maligayang Pagdating, {0}!
+Matagumpay ang pag-login
+Pakilagay ang email
+Pakilagay ang password
+Sa pag-log in, sumasang-ayon ka sa <b><color=#3d6ec0>Mga Tuntunin ng Serbisyo ng DLRS GAS</color></b>
+Kamakailang Account
+Bagong Pag-login
+Sigurado ka bang gusto mong alisin ang account na #name#?
+Binubuksan sa external browser…
+Na-ban ang account na ito
+Dina-download ang user data…
+Hindi ma-load ang player data
+Mag-log Out
+Sigurado ka bang gusto mong mag-log out sa #USERNAME#?
 Open Source Libraries
 https://dlce.fengyan.ip-ddns.com/#/en/legal/open-source
 Statistics
