@@ -32,7 +32,7 @@ Katamtaman
 Mataas
 Pinakamataas
  
-Anti-Aliasing
+
 Tunog
 VSync
 Sinkronisasyon
@@ -103,8 +103,8 @@ Sundin ang ritmo, at i-tap kahit saan para magpalit ng direksyon.
 Ang larong ito ay ginawa para laruin nang naka-on ang musika.
 Huwag mag-swipe. Hindi yan gagana.
 Hindi kailangang mag-tap habang lumilipad.
-Huwag mag-tap kapag pumapasok sa pyramid nang 45°.
-Maaari mong palitan ang skin ng character sa pag-click sa lumulutang na cube.
+Huwag mag-tap kapag pumapasok sa piramide nang 45°.
+Maaari mong palitan ang skin ng karakter sa pag-click sa lumulutang na cube.
 Kolektahin ang lahat ng diyamante at korona para perpektong makumpleto ang mga level.
 Mga Achievements
 [Nakatago] 
@@ -142,7 +142,7 @@ Kanan
 Kumpirmahin
 Ulitin
 Mga Achievements
-Backspace
+
 Pumasok
 Pumasok
 
@@ -181,7 +181,7 @@ Normal
 Headphones
 Papel
 
-Kahulugan
+Kaguluhan
 Kabundukan
 
 Mahiwagang Mangkukulam
@@ -208,7 +208,7 @@ Bolang Cyan
 Bolang Itim
 Simpleng Bola
 Basketbol
-Kapangyarihan ng Bituin
+Kapangyarihang Bituin
 Robot
 Walang pangalan na Level
 Ang Simula
@@ -234,7 +234,7 @@ Ang Bisperas ng Pasko
 Ang Taglagas
 Ang Kristal
 Ang Ika-3 Anibersaryo
-Ang Ika-5 Anniversary
+Ang Ika-5 Anibersaryo
 Ang Kaguluhan 
 Ang Katedral
 Ang Katedral
@@ -290,7 +290,7 @@ Ang Memorya
 Bagyo ng Poot
 Wala
 Sumbrero ng Pasko
-Tutubi na Kawayan
+
 Sumbrero ng Salamangkero
 Sumbrero ng Mehikano
 Sumbrero ng Bowler
@@ -313,7 +313,7 @@ Hindi pa tapos ang paglalakbay…
 Marami pang darating…
 Salamat sa inyong lahat, mga manlalaro ng Dancing Line!
 Kinakailangan ang Pag-update
-Pagsasaayos ng Global sync
+Pagsasaayos ng Global Sync
 Pagsasaayos ng Level Sync
 Awtomatikong Pagwawasto
 Ibahagi
@@ -335,7 +335,7 @@ Martes — Linggo
 Mga Patakaran 
 Kumpletuhin nang perpekto ang level na ito para makakuha ang notes!
 Tapos na ang Hamon sa mga Notes, subukan ulit ang hamon mamaya!
-• Sa event na ito, ang misyon mo ay kolektahin ang bawat diyamante at korona, tapusin ang level gamit ang isang cube lamang, at—tandaan—walang revive! Handa ka na ba sa hamon?\n\n• Naka-off ang Linyang Gabay habang naglalaro, kaya nakasalalay ang lahat sa iyong husay!\n\n• Kapag nakumpleto mo na nang perpekto ang level, huwag kalimutang bumalik sa event page para kunin ang iyong mga reward!
+• Sa event na ito, ang misyon mo ay kolektahin ang bawat diyamante at korona, tapusin ang level gamit ang isang kubo lamang, at—tandaan—walang revive! Handa ka na ba sa hamon?\n\n• Naka-off ang Linyang Gabay habang naglalaro, kaya nakasalalay ang lahat sa iyong husay!\n\n• Kapag nakumpleto mo na nang perpekto ang level, huwag kalimutang bumalik sa event page para kunin ang iyong mga reward!
 Hindi makakonekta sa internet. Tiyaking matibay ang iyong network at subukan muli.
 Nakuha na ang item
 Matagumpay na nakuha ang #item#
