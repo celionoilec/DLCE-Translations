@@ -289,12 +289,12 @@ Ang Kawalang-laman
 Ang Memorya
 Bagyo ng Poot
 Wala
-Sumbrero ng Pasko
+Sumbrerong Pasko
 
-Sumbrero ng Salamangkero
-Sumbrero ng Mehikano
-Sumbrero ng Bowler
-Sumbrero ng Sweet Dog
+Sumbrerong Salamangkero
+Sumbrerong Mehikano
+Sumbrerong Bowler
+Sumbrerong Sweet Dog
 
 Daga
 Nagda-download ang bagong level
@@ -452,19 +452,19 @@ Nakumpleto
 Diyamante
 Korona 
 Kamatayan
-Level Attempts
-Revives
-Times Completed
-Diamonds Picked Up
-Crowns Picked Up
-Stars Earned
-Stars Spent
-Energy Cubes Earned
-Energy Cubes Used
-Notes Earned
-Notes Spent
-Owned Skins
-Owned Hats
+Mga Pagtatangka sa Level
+Mga Revive
+Bilang ng Pagkumpleto 
+Mga Nakolektang Diyamante
+Mga Nakolektang Korona
+Mga Nakuhang Star
+Mga Ginastos na Star
+Mga Nakuhang Energy Cube
+Mga Ginamit na Energy Cube
+Mga Nakuhang Notes
+Mga Ginastos na Notes
+Mga Pag-aaring Skin
+Mga Pag-aaring Sumbrero
 Multisample AA (#SHORT#)
 Fast Approximate AA (#SHORT#)
 Temporal AA (#SHORT#)
