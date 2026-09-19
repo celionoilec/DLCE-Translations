@@ -34,7 +34,7 @@ Pinakamataas
  
 
 Tunog
-VSync
+
 Sinkronisasyon
 Awtomatikong Pagsasaayos
 Pagkaantala ng Musika
@@ -83,7 +83,7 @@ Latency ng Audio Output
 Latency ng Touch Input
 BETA BUILD ##UID# HUWAG IPAMAHAGI
 Mga Epekto ng Gyroscope
-Game Center
+
 Kunin
 Libreng Stars Araw-araw
 Maaaring kunin pagkatapos ng {0}
@@ -208,8 +208,8 @@ Bolang Cyan
 Bolang Itim
 Simpleng Bola
 Basketbol
-Kapangyarihang Bituin
-Robot
+
+
 Walang pangalan na Level
 Ang Simula
 Ang Oras
