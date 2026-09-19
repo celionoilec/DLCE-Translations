@@ -525,24 +525,24 @@ Pagsusumite ng Level
 {0}o {1}m {3}s
 {0}o {1}m
 Hindi na-download ang mga update. Subukan muli?
-May mga bagong update, kailangang i-download ang {0}. Continue?
-The Forgotten Haven
-Failed to check for update, retry?
-Updates download failed. Retrying…
-Collab
-Skip Level
-Use {0} Notes to skip this challenge level?
-Not enough Notes. Need at least {0} to skip.
-{0}d {1}h
-Refreshes in: {0}
-Decoration
-VSync is currently enabled. Frame rate settings only take effect when VSync is disabled.\nDo you want to disable VSync?
-The server is currently under maintenance. Gameplay will be unavailable during this period.\n\nMaintenance Reason: {0}\nEnd Time: {1}
-Please stay tuned for further official announcements.
-Your account session has expired. You may have logged in from another device.\nPlease log in again.
-The server is currently under maintenance. You may log in to the game during maintenance, but the game service may be unstable.\n\nMaintenance Reason: {0}\nEnd Time: {1}
-Missions
-Refreshes in: {0}
+May mga bagong update, kailangang i-download ang {0}. Magpatuloy?
+Ang Nakalimutang Kanlungan
+Hindi nasuri kung may update, subukan muli?
+Hindi na-download ang mga update. Sinusubukan muli…
+Kolab
+Laktawan ang Level
+Gamitin ang {0} Notes para laktawan ang challenge level na ito?
+Kulang ang Notes. Kailangan ng hindi bababa sa {0} para laktawan.
+{0}a {1}o
+Magre-refresh sa: {0}
+Dekorasyon
+Kasalukuyang naka-enable ang VSync. Magkakabisa lang ang mga setting ng frame rate kapag naka-disable ang VSync.\nGusto mo bang i-disable ang VSync?
+Kasalukuyang sumasailalim sa maintenance ang server. Hindi magiging available ang gameplay sa panahong ito.\n\nDahilan ng Maintenance: {0}\nOras ng Pagtatapos: {1}
+Abangan ang mga susunod na opisyal na anunsyo.
+Nag-expire na ang session ng iyong account. Maaaring nag-log in ka sa ibang device.\nPakilogin muli.
+Kasalukuyang sumasailalim sa maintenance ang server. Maaari kang mag-log in sa laro habang may maintenance, ngunit maaaring maging unstable ang game service.\n\nDahilan ng Maintenance: {0}\nOras ng Pagtatapos: {1}
+Mga Misyon
+Magre-refresh sa: {0}
 Log in to the game
 Complete any level {0} times
 Consume {0} cubes
