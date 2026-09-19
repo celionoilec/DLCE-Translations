@@ -515,7 +515,7 @@ Stereo
 5.1 Surround
 7.1 Surround
 Pumili ng Level
-Koleksyon ng mga Level
+Level Koleksyon
 Bumili sa Steam
 Bilhin at i-install ang DLC na ito sa Steam Store
 Legasiya
