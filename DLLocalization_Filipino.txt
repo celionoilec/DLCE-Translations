@@ -517,15 +517,15 @@ Stereo
 Pumili ng Level
 Koleksyon ng mga Level
 Bumili sa Steam
-Buy and install this DLC in Steam Store
-Legacy
-Level Submission
+Bilhin at i-install ang DLC na ito sa Steam Store
+Legasiya
+Pagsusumite ng Level
 {0}s
 {0}m {1}s
-{0}h {1}m {3}s
-{0}h {1}m
-Updates download failed. Retry?
-New updates available, {0} download required. Continue?
+{0}o {1}m {3}s
+{0}o {1}m
+Hindi na-download ang mga update. Subukan muli?
+May mga bagong update, kailangang i-download ang {0}. Continue?
 The Forgotten Haven
 Failed to check for update, retry?
 Updates download failed. Retrying…
