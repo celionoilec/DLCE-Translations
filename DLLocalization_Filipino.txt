@@ -447,7 +447,7 @@ Mag-log Out
 Sigurado ka bang gusto mong mag-log out sa #USERNAME#?
 Buksan ang Source Libraries
 https://dlce.fengyan.ip-ddns.com/#/en/legal/open-source
-Estadistika
+Istatistika
 Nakumpleto
 Diyamante
 Korona 
@@ -470,43 +470,43 @@ Mga Pag-aaring Sumbrero
 
 
 
-Planet
+Planeta
 Star
-Go to #LEVELNAME#
-Using this option may cause stuttering or incorrect image display during gameplay.
-Warning
+Pumunta sa #LEVELNAME#
+Ang paggamit ng option na ito ay maaaring magdulot ng pag-stutter o maling pagpapakita ng mga larawan habang naglalaro.
+Babala
 Audio Device
 Built-In Speaker
 Speakers
-Couldn't find levels that match the keywords.
-Match All
-Match Any
-Playable
-Login via email and password
-Login via OAuth
-Authorization failed. Please try again.
-Disable
-Enable
-When disabled, your statistics will be cleared, and the game will no longer record data unless re-enable.
-App outdated, please check for updates.
+Walang nakitang mga level na tumutugma sa mga keyword.
+Itugma Lahat
+Itugma Kahit Isa
+Maaaring Laruin
+Mag-login gamit ang email at password
+Mag-login gamit ang OAuth
+Nabigo ang awtorisasyon, pakisubukang muli.
+I-disable
+I-nable
+Kapag naka-disable, mabubura ang iyong mga istatistika at hindi na magre-record ng data ang laro hanggang sa i-enable mo itong muli.
+Luma na ang app, pakisuri kung may mga update.
 Redemption Code
-Enter redemption code…
-Redeem
-Redemption in cooldown, please try again later.
-The redemption code is invalid or has already been used.
-Successfully redeemed the following items:
+Ilagay ang redemption code…
+I-redeem
+Naka-cooldown ang redemption. Pakisubukan muli mamaya.
+Hindi valid ang redemption code o nagamit na ito.
+Matagumpay na nakuha ang mga sumusunod na item:
 Level: #NAME#
 Skin: #NAME#
-Hat: #NAME#
-Notes × {0}
-Head in the Clouds
-Terms of Service
-Game environment integrity verification failed.
+Sumbrero: #NAME#
+Mga Notes × {0}
+Nasa Ulap ang Isip
+Mga Tuntunin ng Serbisyo
+Nabigo ang pag-verify sa integridad ng environment ng laro.
 Steam Overlay
 Monument Valley
 Cheetah Teddy
-The Wizard of Oz
-The Loong
+Ang Wizard of Oz
+Ang Loong
 Audio Mixer
 Mono
 Stereo
@@ -514,9 +514,9 @@ Stereo
 5.0 Surround
 5.1 Surround
 7.1 Surround
-Select Level
-Level Collection
-Purchase on Steam
+Pumili ng Level
+Koleksyon ng mga Level
+Bumili sa Steam
 Buy and install this DLC in Steam Store
 Legacy
 Level Submission
