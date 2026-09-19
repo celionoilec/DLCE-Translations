@@ -177,8 +177,8 @@ Sundin mo ang sarili mong bituin! -Dante
 Kapag nakalipad ka na, maglalakad kang nakatingala sa langit \n\t\t\t\t\t\t\t\t Leonardo Da Vinci
 Hindi ka nag-iisa.
 Huwag pagsisihan ang anuman\npagdating sa pag-ibig at pagkain.
-Normal
-Headphones
+
+
 Papel
 
 Kaguluhan
@@ -361,8 +361,8 @@ Season
 Orihinal
 Legasiya
 
-Max Studio
-WINDER Studio
+
+
 Mangyaring mag-login sa Game Center sa System Settings.
 Status Bar
 DLRS GAS
@@ -392,12 +392,12 @@ Resolusyon sa Pag-render
 Awto
 Sumbrero
 Hindi Gamitin 
-Sci-Fi
-https://dl-community.github.io/Docs/#/en/legal/eula
-https://dl-community.github.io/Docs/#/en/legal/privacy
-https://dl-community.github.io/Docs/#/dlce/level_information
-https://dl-community.github.io/Docs/#/en/dlce/localization
-completed
+
+
+
+
+
+nakumpleto 
 Asul
 Dilaw
 Klasikal
@@ -416,13 +416,13 @@ Sundin ang Wika ng System
 Kopya
 Buksan ang External Directory
 Hindi pa suportado sa ngayon ang direktang pagbukas ng directory. I-click ang button para kopyahin ang sumusunod na directory at buksan ito nang manu-mano:\n\n#DIRECTORY#
-DL RS Games Account System
-Email…
-Password…
-Remember User
-Account Login
-Login
-Register
+
+
+
+
+
+
+
 Nakalimutan ang Password
 Nagla-log In…
 Nag-timeout ang Pag-login
@@ -475,9 +475,9 @@ Star
 Pumunta sa #LEVELNAME#
 Ang paggamit ng option na ito ay maaaring magdulot ng pag-stutter o maling pagpapakita ng mga larawan habang naglalaro.
 Babala
-Audio Device
-Built-In Speaker
-Speakers
+
+
+
 Walang nakitang mga level na tumutugma sa mga keyword.
 Itugma Lahat
 Itugma Kahit Isa
@@ -495,25 +495,25 @@ I-redeem
 Naka-cooldown ang redemption. Pakisubukan muli mamaya.
 Hindi valid ang redemption code o nagamit na ito.
 Matagumpay na nakuha ang mga sumusunod na item:
-Level: #NAME#
-Skin: #NAME#
+
+
 Sumbrero: #NAME#
 Mga Notes × {0}
 Nasa Ulap ang Isip
 Mga Tuntunin ng Serbisyo
 Nabigo ang pag-verify sa integridad ng environment ng laro.
-Steam Overlay
-Monument Valley
-Cheetah Teddy
+
+
+
 Ang Wizard of Oz
 Ang Loong
-Audio Mixer
-Mono
-Stereo
-4.0 Surround
-5.0 Surround
-5.1 Surround
-7.1 Surround
+
+
+
+
+
+
+
 Pumili ng Level
 Level Koleksyon
 Bumili sa Steam
@@ -572,7 +572,7 @@ Lumabas sa Laro
 Nakaraang Level
 Nakaraang Page
 Susunod na Page
-Audio
+
 Pangunahing Volume
 Hindi ma-initialize ang Steam client, pakilunsad muli ang laro.
 Hindi makakonekta sa Steam client. Tiyaking gumagana ang Steam client, at ilunsad muli ang laro.
@@ -585,6 +585,6 @@ Praktis Mode
 Praktis Mode
 BABALA: PHOTOSENSITIVITY/EPILEPTIC SEIZURES
 <b>BASAHIN ANG PAUNAWANG ITO BAGO MAGLARO</b>\n\nMaaaring makaranas ng epileptic seizure o pagkawala ng malay ang napakaliit na porsyento ng mga tao kapag nalantad sa ilang uri ng kumikislap na ilaw o mga pattern ng liwanag. Ang mga taong ito, pati na rin ang mga taong walang kasaysayan ng seizure o epilepsy, ay maaaring makaranas ng mga sintomas ng epilepsy o seizure habang naglalaro ng mga video game.\n\nKung ikaw o sinuman sa iyong mga kamag-anak ay may epilepsy o nakaranas na ng anumang uri ng seizure, kumonsulta muna sa iyong doktor bago maglaro ng anumang video game.\n\nAGAD ITIGIL ang paggamit at kumonsulta sa doktor kung ikaw o ang iyong anak ay makaranas ng alinman sa mga sumusunod na sintomas: pagkahilo, pagbabago sa paningin, panginginig ng mata o kalamnan, hindi sinasadyang paggalaw, pagkawala ng kamalayan, disorientation, o kombulsyon. Dapat bantayan ng mga magulang ang kanilang mga anak o tanungin sila tungkol sa mga nabanggit na sintomas.\n\nMaaari mong mabawasan ang panganib ng photosensitive epileptic seizure sa pamamagitan ng mga sumusunod na pag-iingat: umupo nang mas malayo sa screen, gumamit ng mas maliit na screen, maglaro sa maliwanag na lugar, at huwag maglaro kapag inaantok o pagod.
-Steam Leaderboard
+
 Linyang Gabay 
 Pag-unlock ng Level
