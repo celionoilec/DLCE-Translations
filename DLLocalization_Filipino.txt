@@ -38,7 +38,7 @@ Tunog
 Sinkronisasyon
 Awtomatikong Pagsasaayos
 Pagkaantala ng Musika
-Pidbak sa Pagpindot
+Feedback sa Pagpindot
 Kumpirmahin ang Paglabas
 Gusto mo na bang umalis sa laro?
 Tungkol
@@ -101,7 +101,7 @@ Nakolektang {0} korona sa level: {1}
 Natapos na level: {0}
 Sundin ang ritmo, at i-tap kahit saan para magpalit ng direksyon.
 Ang larong ito ay ginawa para laruin nang naka-on ang musika.
-Huwag mag-swipe. Hindi yan gagana.
+Huwag mag-swipe. Hindi 'yan gagana.
 Hindi kailangang mag-tap habang lumilipad.
 Huwag mag-tap kapag pumapasok sa piramide nang 45°.
 Maaari mong palitan ang skin ng karakter sa pag-click sa lumulutang na cube.
@@ -174,7 +174,7 @@ Bakit…
 Lalong lumalala ang lahat…
 Katapusan ng Mundo
 Sundin mo ang sarili mong bituin! -Dante
-Kapag nakalipad ka na, maglalakad kang nakatingala sa langit \n\t\t\t\t\t\t\t\t Leonardo Da Vinci
+Kapag nakalipad ka na, maglalakad kang nakatingala sa langit \n\t\t\t\t\t\t\t\t Leonardo da Vinci
 Hindi ka nag-iisa.
 Huwag pagsisihan ang anuman\npagdating sa pag-ibig at pagkain.
 
@@ -263,7 +263,7 @@ Ang Misteryo
 Ang Putbol
 Ang Ebolusyon ng Hip Hop 
 Ang Easter
-And Oyayi ng Tagsibol
+Ang Oyayi ng Tagsibol
 Ang Palaisipan ng Halloween
 Ang Parke ng Libangan
 
@@ -298,7 +298,7 @@ Sumbrerong Sweet Dog
 
 Daga
 Nagda-download ang bagong level
-Mangyaring panatilihin nakakonekta sa internet
+Mangyaring panatilihing nakakonekta sa internet
 
 Hindi na-download ang level
 I-clear ang Cache
@@ -327,7 +327,7 @@ Perpekto
 Hindi Ipinagbibili
 Hamon sa mga Notes
 
-Naubos Na
+Naubos na
 Mga Bituin × {0}
 Mga Kubo × {0}
 Hamon
@@ -529,7 +529,7 @@ May mga bagong update, kailangang i-download ang {0}. Magpatuloy?
 Ang Nakalimutang Kanlungan
 Hindi nasuri kung may update, subukan muli?
 Hindi na-download ang mga update. Sinusubukan muli…
-Kolab
+Collab
 Laktawan ang Level
 Gamitin ang {0} Notes para laktawan ang challenge level na ito?
 Kulang ang Notes. Kailangan ng hindi bababa sa {0} para laktawan.
@@ -557,11 +557,11 @@ May mga espesyal na interaksyon sa level na ito na maaaring ma-trigger sa pamama
 Hindi makakonekta sa Steam Network
 Steam Cloud
 Naka-lock na Level
-Punsyon 1
-Punsyon 2
-Punsyon 3
-Punsyon 4
-Punsyon 5
+Punsiyon 1
+Punsiyon 2
+Punsiyon 3
+Punsiyon 4
+Punsiyon 5
 Bumalik 
 Kanselahin
 Bumili 
