@@ -505,7 +505,7 @@ Nabigo ang pag-verify sa integridad ng environment ng laro.
 
 
 
-AngWizardo ng Oz
+Ang Wizard ng Oz
 Ang Loong
 
 
