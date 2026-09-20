@@ -250,7 +250,7 @@ Ang Pista ng Tagsibol
 Ang Samurai
 Ang Kuwento ng Dragonia
 Ang Pangit na Pato
-Ang Larong Bidyo
+Ang Video Game
 Ang Exodo
 Ang Karagatan
 Ang Taurus
@@ -355,9 +355,9 @@ Kapag Nakatigil
 Habang Naglalaro
 Hindi Kailanman 
 Opisyal
-Remix
-Event
-Season
+
+
+
 Orihinal
 Legasiya
 
@@ -471,7 +471,7 @@ Mga Pag-aaring Sumbrero
 
 
 Planeta
-Star
+
 Pumunta sa #LEVELNAME#
 Ang paggamit ng option na ito ay maaaring magdulot ng pag-stutter o maling pagpapakita ng mga larawan habang naglalaro.
 Babala
@@ -505,7 +505,7 @@ Nabigo ang pag-verify sa integridad ng environment ng laro.
 
 
 
-Ang Wizard of Oz
+AngWizardo ng Oz
 Ang Loong
 
 
