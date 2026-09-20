@@ -486,7 +486,7 @@ Mag-login gamit ang email at password
 Mag-login gamit ang OAuth
 Nabigo ang awtorisasyon, pakisubukang muli.
 I-disable
-I-nable
+I-enable
 Kapag naka-disable, mabubura ang iyong mga istatistika at hindi na magre-record ng data ang laro hanggang sa i-enable mo itong muli.
 Luma na ang app, pakisuri kung may mga update.
 Redemption Code
