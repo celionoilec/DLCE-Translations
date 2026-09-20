@@ -60,7 +60,7 @@ Resolusyon
 Magpatuloy mula sa huling tsekpoint?
 Kailangan pa ng #X%# para sa #New Best#
 Kailangan pa ng #X%# para sa #Susunod na Tsekpoint#
-Kailangan pa ng #X%# para #Makompleto#
+Kailangan pa ng #X%# para #Makumpleto#
 Libre
 Magpatuloy
 Paghahanap
